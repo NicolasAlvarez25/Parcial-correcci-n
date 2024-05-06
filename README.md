@@ -73,7 +73,7 @@
 | 3  |  3       |   3        |ideal         |
 - Se requiere conocer el id de los autos, persona, y una breve descripción.
 
-Ver ![imagen](out/dsa/dsa.png)
+Ver ![imagen](out/qwe/qwe.png)
 
 
 > Script de la base de datos
